@@ -6,6 +6,8 @@
   "main": "pathToMain",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "json2csv": "^5.0.7",
+    "jsonexport": "^3.2.0",
     "node-binance-api": "^0.13.1"
   }
 }
